@@ -1,7 +1,5 @@
 ##Streamlit page app
 import streamlit as st
-from tensorflow.keras import models
-from keras.utils import pad_sequences
 import pickle
 
 
