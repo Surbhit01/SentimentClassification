@@ -1,5 +1,6 @@
 ##Streamlit page app
 import streamlit as st
+import sklearn
 import pickle
 
 
