@@ -19,19 +19,20 @@ The input tweets is pre processed. In the preprocessing phase:
 
 Used Logistic Regression, Naive Bayes, Random Forest and Linear SVM for modelling.<br>
 Created a streamlit webapp using Naive Bayes model for prediction.<br><br>
-![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/4630229b-2662-40cd-ae89-bedc5df33497)
-[Image above] Word count distribution in negative tweets
 
-![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/b4070d30-dcb9-48f8-a3a8-fffed9cfb039)
-[Image above] Word cloud distribution in positive tweets
+![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/5ff24459-80b9-4767-b8da-b521d8bcd8b0)
+[Image above] Word count distribution in positive and negative tweets
 
-![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/2a51264c-78c5-409b-8f37-34d124e1171d)
+
+![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/a2b85654-f5be-4452-b12c-63a7263a64f7)
 [Image above] Negative polarity word cloud
 
+![image](https://github.com/Surbhit01/SentimentClassification/assets/24591039/e0b7f4aa-ee5e-440c-a2a6-798f95bed0bb)
+[Image above] positive polarity word cloud
 
 
-![Positive](https://github.com/Surbhit01/SentimentClassification/assets/24591039/9b89f42e-ae4f-4b70-9b15-db170808d537)
+![Positive](https://github.com/Surbhit01/SentimentClassification/assets/24591039/f0533d25-4137-41c1-a5a3-feafa3c1ca58)
 [Image above] Positive prediction sample
 
-![Negative](https://github.com/Surbhit01/SentimentClassification/assets/24591039/68346cff-d762-4216-a04d-2976de05670c)
+![Negative](https://github.com/Surbhit01/SentimentClassification/assets/24591039/240491c0-c040-4be4-badc-c28d27029e59)
 [Image above] Negative prediction sample
