@@ -161,3 +161,4 @@ cython_debug/
 
 #Dataset (adding the zip file)
 Data/tweets.csv
+4.2.0
